@@ -1,0 +1,14 @@
+
+IGRA:
+kad se hoveruje refleksija da se pokaze osa
+da moze da se restartuje nivo
+
+leaderboard da se sortira
+kada se loaduje level iz editora da se postavi odgovarajuci difficulty
+leaderboard: kad se klikne enter da se prikaze novi rezultat
+leaderboard da ne resetuje countere
+kada se otkrije polje sa zastavicom da se zastavica obrise umesto da ubaguje
+pogresne zastavice da se obeleze
+ne moze da se klikne na minu iz prve
+     // slucaj kada se igra na terenu iz editora
+     // slucaj kada se klikne desni klik prvo

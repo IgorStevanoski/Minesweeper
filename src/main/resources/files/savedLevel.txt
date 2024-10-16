@@ -1,0 +1,10 @@
+-xxxxxxx#
+#xxxxxxxx
+-#xxxxxxx
+--xxxxxxx
+--xxxxxxx
+#--#xxx#-
+-#----#-#
+---------
+------#--
+!1,1,0

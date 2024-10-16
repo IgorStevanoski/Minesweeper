@@ -1,0 +1,12 @@
+Beginner,level1,A,123,100,3
+Beginner,level1,B,13,99,0
+Beginner,level1,C,243,142,10
+Beginner,level2,D,12,111,13
+Intermediate,level3,E,102,45,13
+Intermediate,level3,F,103,56,11
+Expert,level4,G,160,113,10
+levelDifficulty,levelName,playerName,Time,Clicks,Helps
+Intermediate,level1,,0,0,0
+Intermediate,level1,,0,0,0
+Intermediate,level1,jasnos,33,28,0
+Intermediate,level1,dsadsa,23,30,0
